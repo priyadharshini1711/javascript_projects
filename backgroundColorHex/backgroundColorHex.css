@@ -1,0 +1,12 @@
+.button-style {
+    height: 5%;
+    width: 10%;
+    font-size: medium;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    text-align: center;
+    margin-inline-start: 25%;
+}

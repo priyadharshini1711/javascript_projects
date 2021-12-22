@@ -1,0 +1,23 @@
+html,
+body {
+    height: 100%;
+}
+
+.container-1 {
+    background-color: blueviolet;
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.container-2 {
+    background-color: brown;
+    width: 90%;
+    height: 90%;
+    height: inherit;
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}
