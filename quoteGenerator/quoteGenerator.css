@@ -10,6 +10,7 @@ body {
     text-align: center;
     margin: auto;
     padding: 10px;
+    display: block;
 }
 
 .container-2 {
@@ -19,5 +20,20 @@ body {
     height: inherit;
     text-align: center;
     margin: auto;
-    padding: auto;
+    padding: 20px;
+    margin-top: 25px;
+}
+
+p {
+    color: burlywood;
+}
+
+.text-container {
+    border-radius: 25px;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 80px;
+    padding: 20px;
+    width: 90%;
+    height: 150px;
 }
