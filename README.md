@@ -21,10 +21,10 @@
 - There is a background color changer, background hex color changer, password generator, calculator, quote generator and todo list.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/81974121/147120137-4b7c5a72-2f54-4d39-9828-ea8fa053f13d.png)
-![image](https://user-images.githubusercontent.com/81974121/147120171-fb1e6886-12e6-48b8-b39e-bc1f822da102.png)
-![image](https://user-images.githubusercontent.com/81974121/147120199-f5fd7266-8b39-4fc5-8751-d0b58f42bb62.png)
-![image](https://user-images.githubusercontent.com/81974121/147120212-91120f1e-2c76-41ac-b3dd-321ab0b2b0b1.png)
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636807-115a995b-90e3-472a-b4c7-7ef1ee6872c3.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636876-a08b2353-cb68-46ba-b486-bb211f96e816.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636952-7d1e8701-64c2-4343-b160-5adac301a685.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637015-beb99f3c-6a24-409c-8d82-11d343647b94.png">
 
 ## Setup
 - clone the project an place in a java project directory
