@@ -21,10 +21,11 @@
 - There is a background color changer, background hex color changer, password generator, calculator, quote generator and todo list.
 
 ## Screenshots
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636807-115a995b-90e3-472a-b4c7-7ef1ee6872c3.png">
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636876-a08b2353-cb68-46ba-b486-bb211f96e816.png">
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176636952-7d1e8701-64c2-4343-b160-5adac301a685.png">
-<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637015-beb99f3c-6a24-409c-8d82-11d343647b94.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637243-b7d3e098-5af0-40d6-b8ac-85a711e6d715.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637306-b0691fe1-8164-4810-89b2-fccd096b62a6.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637380-c4483038-d46c-4019-97df-e42d9c1779fe.png">
+<img width="961" alt="image" src="https://user-images.githubusercontent.com/81974121/176637453-eb409078-debb-425b-abf9-f74fa05dd3f8.png">
+
 
 ## Setup
 - clone the project an place in a java project directory
